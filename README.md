@@ -1,0 +1,12 @@
+![Instance Segmentation Slides-1](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/e9d3153b-7285-4be1-af9c-a93ebfc8d719)
+![Instance Segmentation Slides-2](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/e87bb17f-9c6a-4cd9-b410-63f2a08c6024)
+![Instance Segmentation Slides-3](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/9ce47f48-3f16-4ead-96f7-6f052e2b811c)
+![Instance Segmentation Slides-4](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/2a9c8aa8-e0bc-48f6-9fd9-e33312a057ac)
+![Instance Segmentation Slides-5](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/12467fa1-f0e1-4d65-bfb4-e6334e9cf427)
+![Instance Segmentation Slides-6](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/bb14b83f-b2cd-4671-a5d2-1b0330968955)
+![Instance Segmentation Slides-7](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/72fb6301-de51-40c6-9fdd-aaad39d9c196)
+![Instance Segmentation Slides-8](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/04aad0e1-d45b-4707-99b1-ba082beaffb1)
+![Instance Segmentation Slides-9](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/5730f1d3-9b02-4473-bb95-c43fddaedaf2)
+![Instance Segmentation Slides-10](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/4362a281-a81a-4407-8e2b-e30e72b8a6ba)
+![Instance Segmentation Slides-11](https://github.com/AlgorithmicDeer/Instance-Segmentation/assets/137785530/45ce120b-f702-49fd-8c6c-018795a4eac7)
+
